@@ -10,8 +10,6 @@ Opera - https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/
 
 Abra o Painel do Tampermonkey: Clique no ícone da extensão do Tampermonkey em seu navegador e selecione "Painel".
 
-Crie um Novo Script: No Painel do Tampermonkey, clique na guia "Utilitários" e selecione "Criar um novo script".
-
 Instale o Script: https://encurtador.com.br/aoX34
 
 Ative o Script: Ative o script clicando no interruptor ao lado do nome do script no Painel do Tampermonkey.
